@@ -1,0 +1,2 @@
+# CHALLENGE-PROBLEM-NumPy-2D-Array---Lookup-Table
+A program that determines a 2-dimensional array of the volume correction factor (VCF) data for Jet A, Jet-A1, jet kerosene, turbine fuel with specific rows and columns according to the given text file using a function called readData(filename), as well as a float value for the volume fixed to 15 degrees Celsius using a function called convertVolume(vol, temp, lookup).
